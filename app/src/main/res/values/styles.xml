@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default app theme or other styles -->
+
+    <!-- Custom style for FloatingActionButton -->
+    <style name="FABShape">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50dp</item> <!-- Makes the FAB fully circular -->
+    </style>
+</resources>
+
